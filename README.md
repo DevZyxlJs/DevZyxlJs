@@ -26,6 +26,12 @@
 <br><br>
 </a>
 
+<div align="center">
+
+[![](https://moe-counter.glitch.me/get/@:SoySapo6?theme=aso)](https://visitcount.itsvg.in)
+
+</div>
+
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
