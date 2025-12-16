@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![](https://moe-counter.glitch.me/get/@:SoySapo6?theme=aso)](https://visitcount.itsvg.in)
+[![](https://moe-counter.glitch.me/get/@:DevZyxlJs?theme=aso)](https://visitcount.itsvg.in)
 
 </div>
 
