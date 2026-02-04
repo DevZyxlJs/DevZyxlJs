@@ -7,8 +7,6 @@
 ### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar Wa ✨
 > `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
 
-[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://committers.top/colombia/DevZyxlJs)
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
 
@@ -31,6 +29,8 @@
 <div align="center">
 
 [![](https://moe-counter.glitch.me/get/@:DevZyxlJs?theme=aso)](https://api.stellarwa.xyz)
+
+[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://api.stellarwa.xyz)
 
 </div>
 
