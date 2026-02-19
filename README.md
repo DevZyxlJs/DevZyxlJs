@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/STELLAR_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbApwZ9ISTkEBb6ttS3F) [![WhatsApp](https://img.shields.io/badge/API_Rest_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7uTAR5PO0yFy8kyZ3t)
+[![WhatsApp](https://img.shields.io/badge/STELLAR_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbApwZ9ISTkEBb6ttS3F) [![WhatsApp](https://img.shields.io/badge/API_Rest_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7XfTUDDmFS6rkQZ61J)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
@@ -29,7 +29,7 @@
 
 [![](https://moe-counter.glitch.me/get/@:DevZyxlJs?theme=aso)](https://api.nightlight.qzz.io)
 
-[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://api.nightlight.qzz.io)
+[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://api.stellarwa.xyz)
 
 </div>
 
@@ -46,10 +46,6 @@
 
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">
 <img src="https://gh-card.dev/repos/BrunoSobrino/TheMystic-Bot-MD.svg?fullname=&theme=cobalt" width="400" />
-</a>
-
-<a href="https://github.com/GataNina-Li/GataBot-MD">
-<img src="https://gh-card.dev/repos/GataNina-Li/GataBot-MD.svg?fullname=&theme=cobalt" width="400" />
 </a>
 
 <a href="https://github.com/Cheirz/HuTao-Proyect">
