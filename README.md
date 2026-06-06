@@ -1,177 +1,63 @@
-<img width=100% title="ST" alt="MY PROFILE" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MY PROFILE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DevZyxlJs;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=DevZyxlJs&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=DevZyxlJs&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
-   </td>  
- </tr>  
-</table>
+### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
+> `🫶 "La constancia vence lo que la dicha no alcanza."`
 
-```go
-package main
+### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar Wa ✨
+> `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
 
-import "fmt"
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
 
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
-}
+<a href="mailto:devzyxljs@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
+<a href="https://paypal.me/stellarwa"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/paypal_icon-icons.com_62759.png"></a>
+<a href="https://wa.me/5492916450307"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
 
-func main() {
-  var me = new(Person)
+<div align="center">
 
-  me.name     = "I'm Diego"
-  me.username = "DevZyxJs"
-  me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
+[![WhatsApp](https://img.shields.io/badge/STELLAR_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stellarwa.xyz/channel) [![WhatsApp](https://img.shields.io/badge/API_Rest_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stellarwa.xyz/channel/api)
 
-  fmt.Println(me)
-}
-```
-<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
+</div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
-
-<p align="center">
-<a href="https://t.me/skskksi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=devzyxljs@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/th3_u7p4l"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
-
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://DevZyxlJs.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<div align="center">
+<a href="https://github.com/DevZyxlJs"><img src="https://github-stats-alpha.vercel.app/api?username=DevZyxlJs&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
 </a>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<div align="center">
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+[![](https://moe-counter.glitch.me/get/@:DevZyxlJs?theme=aso)](https://api.stellarwa.xyz)
 
-<p align="center">
-    <a href="https://github.com/DevZyxlJs">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  </a>
-</p>
+[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://api.stellarwa.xyz)
 
-<br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+</div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+<a href="https://github.com/DevZyxlJs/AlyaBot-MD">
+<img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" />
+</a>
 
-> Tools and technologies that I have worked with and I'm interested in
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-   <tr>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">
+<img src="https://gh-card.dev/repos/BrunoSobrino/TheMystic-Bot-MD.svg?fullname=&theme=cobalt" width="400" />
+</a>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<a href="https://github.com/Cheirz/HuTao-Proyect">
+<img src="https://gh-card.dev/repos/CheirZ/HuTao-Proyect.svg?fullname=&theme=cobalt" width="400" />
+</a>
 
-### 🏆GitHub Trophies
+<a href="https://github.com/David-Chian/Megumin-Bot-MD">
+<img src="https://gh-card.dev/repos/David-Chian/Megumin-Bot-MD.svg?fullname=&theme=cobalt" width="400" />
+</a>
 
-<p align="center">
-    <a href="https://github.com/DevZyxlJs">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=DevZyxlJs&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    <img width="40%" src="https://holopin.me/amajaying3" />
-  </a>
-</p>
-<p align="center"><img src="https://stardev.io/developers/DevZyxlJs/badge/languages/global.svg" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<a href="https://github.com/iamDestroy/YukiBot-MD">
+<img src="https://gh-card.dev/repos/iamDestroy/YukiBot-MD.svg?fullname=&theme=cobalt" width="400" />
+</a>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
-
-<p align="center">
-<a href="https://github.com/DevZyxlJs"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZyxlJs&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=DevZyxlJs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-</p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-### 📊 GitHub States
-<p align="center">
-<a href="https://github.com/DevZyxlJs"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=DevZyxlJs&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevZyxlJs&theme=dark&hide_border=false" />
- </a></p>
-<p align="center">
-<a href="https://github.com/DevZyxlJs">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevZyxlJs&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="./assets/images/Footer.jpg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
