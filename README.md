@@ -67,7 +67,7 @@ Domain: stellarwa.xyz
   <br>
   <h3 align="center">🙏 Thank you for reading</h3>
   <p align="center">
-      <img src="https://media1.tenor.com/m/p_Wua847HAYAAAAd/hanamaru-kindergarten-anime.gif" width= "300"></img>
+      <img src="https://nube.stellarwa.xyz/rf/tfsB3aLsiUcj.gif" width= "300"></img>
   </p>
  </body>
 </html>
