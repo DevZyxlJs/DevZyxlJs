@@ -2,7 +2,7 @@
  <body>
 <div class="info">
 <p align ="center">
- <img src= "https://nube.stellarwa.xyz/rf/cDnSWOQqQWV5.jpg" witdh = "100px"></img>
+ <img src= "https://nube.stellarwa.xyz/rf/kQIAB4aBid2N.gif" witdh = "100px"></img>
 </p>
   <h1 align="center">I'm Diego | Profile</h1>
 
@@ -55,7 +55,7 @@ Domain: stellarwa.xyz
    <br>
    <br>
    <p align="center">
-         <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width= "280"></img>
+         <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" width= "280"></img>
    </p>
   <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
    <p align="center">
