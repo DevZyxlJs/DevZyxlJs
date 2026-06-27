@@ -55,7 +55,7 @@ Domain: stellarwa.xyz
    <br>
    <br>
    <p align="center">
-         <img src="https://nube.stellarwa.xyz/rf/kQIAB4aBid2N.gif" width= "280"></img>
+         <img src="https://nube.stellarwa.xyz/rf/lq7OaBRqIgze.gif" width= "280"></img>
    </p>
   <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
    <p align="center">
