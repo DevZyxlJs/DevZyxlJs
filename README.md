@@ -31,7 +31,7 @@ Domain: stellarwa.xyz
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZyxlJs&theme=dracula&show_icons=true&hide_border=false&layout=compact"></img>
    </p>
   <br>
-  <h3 align="center">🙏 Thank you for reading</h3>
+  <h3 align="center">🐚 Thank you for reading</h3>
   <p align="center">
       <img src="https://nube.stellarwa.xyz/rf/tfsB3aLsiUcj.gif" width= "300"></img>
   </p>
