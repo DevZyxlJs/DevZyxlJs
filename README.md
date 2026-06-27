@@ -1,63 +1,73 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+<!DOCTYPE html>
+ <body>
+<div class="info">
+<p align ="center">
+ <img src= "https://nube.stellarwa.xyz/rf/cDnSWOQqQWV5.jpg" witdh = "100px"></img>
+</p>
+  <h1 align="center">I'm Diego | Profile</h1>
 
-### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
+  <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
+  <p width = "40">
 
-> `🫶 "La constancia vence lo que la dicha no alcanza."`
+```csharp
+-------------------------
+Hostname: DevZyxlJs
+Hobbies: Watch Anime & Drawing art
+Best Anime: oregairu, toradora
+Location: Colombia
+Domain: stellarwa.xyz
+------------------------
+```
 
-### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar Wa ✨
-> `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
-
-<a href="mailto:devzyxljs@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
-<a href="https://paypal.me/stellarwa"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/paypal_icon-icons.com_62759.png"></a>
-<a href="https://wa.me/5492916450307"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/STELLAR_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stellarwa.xyz/channel) [![WhatsApp](https://img.shields.io/badge/API_Rest_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stellarwa.xyz/channel/api)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
+</p>
+ <br>
+ <br>
+ <br>
+ <p align="center">
+     <img src="https://media1.tenor.com/m/oXkW9LLAGG8AAAAC/oshi-no-ko-head-bob.gif" width="140"></img>
+ </p>
+ <h3 align="center">🎵 My favorite song 🎵</h3>
 </div>
-
-<div align="center">
-<a href="https://github.com/DevZyxlJs"><img src="https://github-stats-alpha.vercel.app/api?username=DevZyxlJs&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
-</a>
-
-<div align="center">
-
-[![](https://moe-counter.glitch.me/get/@:DevZyxlJs?theme=aso)](https://api.stellarwa.xyz)
-
-[![committers.top badge](https://user-badge.committers.top/colombia/DevZyxlJs.svg)](https://api.stellarwa.xyz)
-
-</div>
-
-<p align="center"> 
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
-</p> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
-
-<a href="https://github.com/DevZyxlJs/AlyaBot-MD">
-<img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" />
-</a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
-
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">
-<img src="https://gh-card.dev/repos/BrunoSobrino/TheMystic-Bot-MD.svg?fullname=&theme=cobalt" width="400" />
-</a>
-
-<a href="https://github.com/Cheirz/HuTao-Proyect">
-<img src="https://gh-card.dev/repos/CheirZ/HuTao-Proyect.svg?fullname=&theme=cobalt" width="400" />
-</a>
-
-<a href="https://github.com/David-Chian/Megumin-Bot-MD">
-<img src="https://gh-card.dev/repos/David-Chian/Megumin-Bot-MD.svg?fullname=&theme=cobalt" width="400" />
-</a>
-
-<a href="https://github.com/iamDestroy/YukiBot-MD">
-<img src="https://gh-card.dev/repos/iamDestroy/YukiBot-MD.svg?fullname=&theme=cobalt" width="400" />
-</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+<div class="music" width = "140">
+  <br>
+<br>
+<p align="left"> 
+ <br>
+ <a src="https://music.youtube.com/watch?v=oXZcuHIR5ko&si=EZ6TsHwvDBPlOGIO">
+   <img src="https://lh3.googleusercontent.com/bZvM_5-TNxqVgcARVyglarPZHbWY9b9y4lPVuaj6cPp_WesnTs4VhJAXHyGsk-Bifs21awV4UT4OZsVC=w544-h544-l90-rj" width="100" align="left">
+    </img>
+   </a>
+    <h3 align="left"><br>LOVE 2000</h3>
+   </p>
+ <br>
+ <br>
+ <br>
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=ObvC7QEuqXY&si=wJB35BViP_wAKep9">
+        <img src="https://lh3.googleusercontent.com/afOSAk2LNeVuemP8xalxWIAo7D1ZCb6LJlNaw5Dxe7nliR-WCtarbsr7Hm4U7Myn38bYS1eLWWXtstIWMg=w544-h544-l90-rj" width = "100" align="right"></img>
+      </a>
+        <h3 align="right"q><br>人生イージー</h3>
+       </p>
+          <br>
+            <br>
+        <br>
+   </div>
+   <br>
+   <br>
+   <p align="center">
+         <img src="https://media1.tenor.com/m/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width= "280"></img>
+   </p>
+  <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
+   <p align="center">
+       <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,mongodb,firebase,github,linux,cloudflare,nginx,npm,tailwind&perline=8&theme=dark KK" width="300"></img>
+     <img src="https://github-readme-stats.vercel.app/api?username=DevZyxlJs&theme=dracula&show_icons=true&hide_border=false&count_private=false"></img>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevZyxlJs&theme=dracula&hide_border=false"></img>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZyxlJs&theme=dracula&show_icons=true&hide_border=false&layout=compact"></img>
+   </p>
+  <br>
+  <h3 align="center">🙏 Thank you for reading</h3>
+  <p align="center">
+      <img src="https://media1.tenor.com/m/p_Wua847HAYAAAAd/hanamaru-kindergarten-anime.gif" width= "300"></img>
+  </p>
+ </body>
+</html>
