@@ -15,7 +15,7 @@ Hostname: DevZyxlJs
 Hobbies: Watch Anime & Drawing art
 Best Anime: oregairu, toradora
 Location: Colombia
-Domain: stellarwa.xyz
+Domain: api.stellarwa.xyz
 ------------------------
 ```
 
