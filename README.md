@@ -14,7 +14,6 @@
 <a href="https://github.com/DevZyxlJs"><img src="https://github-stats-alpha.vercel.app/api?username=DevZyxlJs&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
 </a>
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=THANK+YOU+FOR+VISITING" alt="Typing SVG" /></a>
 
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
@@ -23,6 +22,10 @@
 
 <a href="https://github.com/DevZyxlJs/AlyaBot-MD">
 <img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&lines=🍃+THANK+YOU+FOR+VISITING+🍃" alt="Typing SVG" />
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
