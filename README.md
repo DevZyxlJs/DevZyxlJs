@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
-<p align="center"> 
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
-</p> 
-
 ### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
 
 > `🫶 "La constancia vence lo que la dicha no alcanza."`
