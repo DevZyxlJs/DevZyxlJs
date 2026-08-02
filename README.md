@@ -5,7 +5,7 @@
 > <b>`🫶 "Da el primer paso: No esperes a que todo sea perfecto para actuar."`</b>
 
 ### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar - WaBot ✨
-> `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
+> <i>`¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`</i>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
