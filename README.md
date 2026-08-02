@@ -14,22 +14,24 @@
 </a>
   <br>
 
+</div>
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&height=30&lines=🍃+MIS+PROYECTOS+🍃" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=500&height=40&lines=🍃+MIS+PROYECTOS+🍃" alt="Typing SVG" />
   </a>
 
   <a href="https://api.stellarwa.xyz">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00A86B&height=100&section=footer&text=API%20StellarWA&fontColor=ffffff&fontSize=25" width="400" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=39FF14&height=120&section=footer&text=API%20StellarWA&fontColor=000000&fontSize=28" width="420" />
   </a>
 
   <a href="https://web.stellarwa.xyz">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=3A80F3&height=100&section=footer&text=Web%20StellarWA&fontColor=ffffff&fontSize=25" width="400" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=FF6F61&height=120&section=footer&text=Web%20StellarWA&fontColor=ffffff&fontSize=28" width="420" />
   </a>
 
   <a href="https://github.com/DevZyxlJs/AlyaBot-MD">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=AlyaBot-MD&fontColor=ffffff&fontSize=25" width="400" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=1E90FF&height=120&section=footer&text=AlyaBot-MD&fontColor=ffffff&fontSize=28" width="420" />
   </a>
 
 </div>
