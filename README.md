@@ -2,7 +2,7 @@
 
 ### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
 
-> `🫶 "La constancia vence lo que la dicha no alcanza."`
+> <b>`🫶 "Da el primer paso: No esperes a que todo sea perfecto para actuar."`</b>
 
 ### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar - WaBot ✨
 > `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
