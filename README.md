@@ -39,4 +39,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&lines=🍃+THANK+YOU+FOR+VISITING+🍃" alt="Typing SVG" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A86B&height=120&section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</p>
