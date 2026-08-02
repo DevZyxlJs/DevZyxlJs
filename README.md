@@ -1,26 +1,13 @@
-<!DOCTYPE html>
- <body>
-<div class="info">
-<p align ="center">
- <img src= "https://nube.stellarwa.xyz/rf/UnQGskGiYBkT.gif" witdh = "100px"></img>
-</p>
-  <h1 align="center">I'm Diego | Profile</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
-  <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
-  <p width = "40">
+### ¡Hola! 👋 Bienvenido(a) a mi perfil 🌻✨️
 
-```csharp
--------------------------
-Hostname: DevZyxlJs
-Hobbies: Watch Anime & Drawing art
-Best Anime: oregairu, toradora
-Location: Colombia
-Domain: api.stellarwa.xyz
-------------------------
-```
+> `🫶 "La constancia vence lo que la dicha no alcanza."`
 
-   <br>
-   <br>
+### ❤️ Conoce más sobre mí y mis proyectos, únete y sé parte de la comunidad de Stellar - WaBot ✨
+> `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
+
+
    <p align="center">
          <img src="https://nube.stellarwa.xyz/rf/lq7OaBRqIgze.gif" width= "280"></img>
    </p>
@@ -42,5 +29,3 @@ Domain: api.stellarwa.xyz
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
- </body>
-</html>
