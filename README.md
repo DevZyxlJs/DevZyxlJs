@@ -25,11 +25,11 @@ Domain: api.stellarwa.xyz
          <img src="https://nube.stellarwa.xyz/rf/lq7OaBRqIgze.gif" width= "280"></img>
    </p>
   <h3 align="center">👨‍💻 My Stack 👨‍💻</h3>
-   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=DevZyxlJs&theme=dracula&show_icons=true&hide_border=false&count_private=false"></img>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevZyxlJs&theme=dracula&hide_border=false"></img>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZyxlJs&theme=dracula&show_icons=true&hide_border=false&layout=compact"></img>
-   </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+<a href="https://github.com/DevZyxlJs"><img src="https://github-stats-alpha.vercel.app/api?username=DevZyxlJs&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
+</a>
   <br>
   <h3 align="center">🐚 Thank you for reading</h3>
   <p align="center">
