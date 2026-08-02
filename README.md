@@ -15,10 +15,12 @@
   <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
 <a href="https://github.com/DevZyxlJs/AlyaBot-MD">
 <img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" />
 </a>
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&lines=🍃+THANK+YOU+FOR+VISITING+🍃" alt="Typing SVG" />
