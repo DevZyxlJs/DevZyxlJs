@@ -8,9 +8,6 @@
 > `¡Juntos podemos llevar la tecnología al siguiente nivel! 🫶`
 
 
-   <p align="center">
-         <img src="https://nube.stellarwa.xyz/rf/lq7OaBRqIgze.gif" width= "280"></img>
-   </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
 <div align="center">
