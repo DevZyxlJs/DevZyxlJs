@@ -17,22 +17,19 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&height=30&lines=🦡+MIS+PROYECTOS+🦡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&height=30&lines=🍃+MIS+PROYECTOS+🍃" alt="Typing SVG" />
   </a>
 
   <a href="https://api.stellarwa.xyz">
-    <img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" alt="API StellarWA"/>
-    <p><b>🌵 API Developer:</b> api.stellarwa.xyz</p>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00A86B&height=100&section=footer&text=API%20StellarWA&fontColor=ffffff&fontSize=25" width="400" />
   </a>
 
   <a href="https://web.stellarwa.xyz">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00A86B&height=100&section=footer&text=Web%20StellarWA&fontColor=ffffff&fontSize=30" width="400" alt="Web StellarWA"/>
-    <p><b>🌱 Web Bot:</b> web.stellarwa.xyz</p>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=3A80F3&height=100&section=footer&text=Web%20StellarWA&fontColor=ffffff&fontSize=25" width="400" />
   </a>
 
   <a href="https://github.com/DevZyxlJs/AlyaBot-MD">
-    <img src="https://gh-card.dev/repos/DevZyxlJs/AlyaBot-MD.svg?fullname=&theme=dark" width="400" alt="AlyaBot-MD"/>
-    <p><b>🍃 Bot de WhatsApp:</b> AlyaBot-MD</p>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=AlyaBot-MD&fontColor=ffffff&fontSize=25" width="400" />
   </a>
 
 </div>
