@@ -18,6 +18,10 @@
 
 <div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=500&lines="🌿+MIS+PROYECTOS+🌿" alt="Typing SVG" />
+</a>
+
   <a href="https://api.stellarwa.xyz">
     <img height="50" src="https://img.icons8.com/color/96/api.png" alt="API StellarWA"/>
   </a>
