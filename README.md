@@ -18,20 +18,16 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=500&height=40&lines=🍃+MIS+PROYECTOS+🍃" alt="Typing SVG" />
-  </a>
-
   <a href="https://api.stellarwa.xyz">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=39FF14&height=120&section=footer&text=API%20StellarWA&fontColor=000000&fontSize=28" width="420" />
+    <img height="50" src="https://img.icons8.com/color/96/api.png" alt="API StellarWA"/>
   </a>
 
   <a href="https://web.stellarwa.xyz">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=FF6F61&height=120&section=footer&text=Web%20StellarWA&fontColor=ffffff&fontSize=28" width="420" />
+    <img height="50" src="https://img.icons8.com/color/96/domain.png" alt="Web StellarWA"/>
   </a>
 
   <a href="https://github.com/DevZyxlJs/AlyaBot-MD">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=1E90FF&height=120&section=footer&text=AlyaBot-MD&fontColor=ffffff&fontSize=28" width="420" />
+    <img height="50" src="https://img.icons8.com/color/96/github.png" alt="AlyaBot-MD"/>
   </a>
 
 </div>
