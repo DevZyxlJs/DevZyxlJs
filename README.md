@@ -25,7 +25,7 @@
     <img height="50" src="https://img.icons8.com/color/96/api.png" alt="API StellarWA"/>
   </a>
 
-  <a href="https://web.stellarwa.xyz">
+  <a href="https://stellarwa.xyz">
     <img height="50" src="https://img.icons8.com/color/96/domain.png" alt="Web StellarWA"/>
   </a>
 
